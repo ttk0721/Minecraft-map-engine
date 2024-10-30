@@ -72,7 +72,7 @@ Poniżej znajduje się tabela z planowanymi funkcjami projektu oraz ich aktualny
 | ❌         | 1.18 (Caves & Cliffs cz.2)             | ❌ 1.18.1, ❌ 1.18.2                          |
 | ❌         | 1.19 (The Wild Update)                 | ❌ 1.19, ❌ 1.19.1, ❌ 1.19.2, ❌ 1.19.3, ❌ 1.19.4     |
 | ❌         | 1.20 (Trails & Tales)                  | ❌ 1.20.1, ❌ 1.20.2, ❌ 1.20.3, ❌1.20.4, ❌1.20.5, ❌1.20.6|
-| ❌         | 1.21 (Tricky Trials)                  | ❌ 1.20.1, ❌ 1.20.2, ❌ 1.20.3                          |
+| ❌         | 1.21 (Tricky Trials)                  | ❌ 1.21.1, ❌ 1.21.2, ❌ 1.21.3                          |
 
 **Legenda:**
 - **✅** – Wersja jest w pełni obsługiwana.
@@ -185,7 +185,7 @@ Below is a table of the project's planned features and their current implementat
 | ❌         | 1.18 (Caves & Cliffs cz.2)             | ❌ 1.18.1, ❌ 1.18.2                          |
 | ❌         | 1.19 (The Wild Update)                 | ❌ 1.19, ❌ 1.19.1, ❌ 1.19.2, ❌ 1.19.3, ❌ 1.19.4     |
 | ❌         | 1.20 (Trails & Tales)                  | ❌ 1.20.1, ❌ 1.20.2, ❌ 1.20.3, ❌1.20.4, ❌1.20.5, ❌1.20.6|
-| ❌         | 1.21 (Tricky Trials)                  | ❌ 1.20.1, ❌ 1.20.2, ❌ 1.20.3                          |
+| ❌         | 1.21 (Tricky Trials)                  | ❌ 1.21.1, ❌ 1.21.2, ❌ 1.21.3                          |
 
 **Legenda:**
 - **✅** – The version is fully supported.
